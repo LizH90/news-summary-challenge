@@ -1,0 +1,124 @@
+{
+  "response": {
+    "status": "ok",
+    "userTier": "developer",
+    "total": 1980432,
+    "startIndex": 1,
+    "pageSize": 10,
+    "currentPage": 1,
+    "pages": 198044,
+    "orderBy": "newest",
+    "results": [
+      {
+        "id": "sport/live/2017/sep/17/india-v-australia-first-one-day-international-live",
+        "type": "liveblog",
+        "sectionId": "sport",
+        "sectionName": "Sport",
+        "webPublicationDate": "2017-09-17T10:09:52Z",
+        "webTitle": "India v Australia: first one-day international â€“ live!",
+        "webUrl": "https://www.theguardian.com/sport/live/2017/sep/17/india-v-australia-first-one-day-international-live",
+        "apiUrl": "https://content.guardianapis.com/sport/live/2017/sep/17/india-v-australia-first-one-day-international-live",
+        "isHosted": false
+      },
+      {
+        "id": "lifeandstyle/2017/sep/17/nadine-levy-redzepi-noma-what-to-cook-for-the-worlds-best-chef",
+        "type": "article",
+        "sectionId": "lifeandstyle",
+        "sectionName": "Life and style",
+        "webPublicationDate": "2017-09-17T10:00:38Z",
+        "webTitle": "Nadine Levy Redzepi: What do you cook for the world's best chef?",
+        "webUrl": "https://www.theguardian.com/lifeandstyle/2017/sep/17/nadine-levy-redzepi-noma-what-to-cook-for-the-worlds-best-chef",
+        "apiUrl": "https://content.guardianapis.com/lifeandstyle/2017/sep/17/nadine-levy-redzepi-noma-what-to-cook-for-the-worlds-best-chef",
+        "isHosted": false
+      },
+      {
+        "id": "football/2017/sep/17/mark-sampson-dividing-opinion-england-women-russia-tranmere",
+        "type": "article",
+        "sectionId": "football",
+        "sectionName": "Football",
+        "webPublicationDate": "2017-09-17T09:42:13Z",
+        "webTitle": "England women's coach Mark Sampson in eye of the storm before Russia game",
+        "webUrl": "https://www.theguardian.com/football/2017/sep/17/mark-sampson-dividing-opinion-england-women-russia-tranmere",
+        "apiUrl": "https://content.guardianapis.com/football/2017/sep/17/mark-sampson-dividing-opinion-england-women-russia-tranmere",
+        "isHosted": false
+      },
+      {
+        "id": "business/2017/sep/17/dominic-chappell-in-court-bhs-fine",
+        "type": "article",
+        "sectionId": "business",
+        "sectionName": "Business",
+        "webPublicationDate": "2017-09-17T09:31:18Z",
+        "webTitle": "Itâ€™s fine time for former BHS owner if the charges stick",
+        "webUrl": "https://www.theguardian.com/business/2017/sep/17/dominic-chappell-in-court-bhs-fine",
+        "apiUrl": "https://content.guardianapis.com/business/2017/sep/17/dominic-chappell-in-court-bhs-fine",
+        "isHosted": false
+      },
+      {
+        "id": "fashion/2017/sep/17/big-splash-the-best-watches-for-divers-from-the-autumnwinter-2017-collections",
+        "type": "article",
+        "sectionId": "fashion",
+        "sectionName": "Fashion",
+        "webPublicationDate": "2017-09-17T09:01:36Z",
+        "webTitle": "Big splash: the best watches for divers from the autumn/winter 2017 collections",
+        "webUrl": "https://www.theguardian.com/fashion/2017/sep/17/big-splash-the-best-watches-for-divers-from-the-autumnwinter-2017-collections",
+        "apiUrl": "https://content.guardianapis.com/fashion/2017/sep/17/big-splash-the-best-watches-for-divers-from-the-autumnwinter-2017-collections",
+        "isHosted": false
+      },
+      {
+        "id": "commentisfree/2017/sep/17/why-novelty-versions-of-monopoly-are-just-wrong",
+        "type": "article",
+        "sectionId": "commentisfree",
+        "sectionName": "Opinion",
+        "webPublicationDate": "2017-09-17T09:00:37Z",
+        "webTitle": "Why novelty versions of Monopoly are just wrong | David Mitchell",
+        "webUrl": "https://www.theguardian.com/commentisfree/2017/sep/17/why-novelty-versions-of-monopoly-are-just-wrong",
+        "apiUrl": "https://content.guardianapis.com/commentisfree/2017/sep/17/why-novelty-versions-of-monopoly-are-just-wrong",
+        "isHosted": false
+      },
+      {
+        "id": "football/2017/sep/17/michael-essien-indonesian-football-carlton-cole-peter-odemwingie",
+        "type": "article",
+        "sectionId": "football",
+        "sectionName": "Football",
+        "webPublicationDate": "2017-09-17T09:00:37Z",
+        "webTitle": "From Michael Essien to Carlton Cole: the story of five former Premier League players in Indonesia",
+        "webUrl": "https://www.theguardian.com/football/2017/sep/17/michael-essien-indonesian-football-carlton-cole-peter-odemwingie",
+        "apiUrl": "https://content.guardianapis.com/football/2017/sep/17/michael-essien-indonesian-football-carlton-cole-peter-odemwingie",
+        "isHosted": false
+      },
+      {
+        "id": "careers/2017/sep/17/how-to-write-a-killer-cover-letter-live-chat",
+        "type": "article",
+        "sectionId": "careers",
+        "sectionName": "Guardian Careers",
+        "webPublicationDate": "2017-09-17T09:00:36Z",
+        "webTitle": "How to write a killer cover letter â€“ live chat",
+        "webUrl": "https://www.theguardian.com/careers/2017/sep/17/how-to-write-a-killer-cover-letter-live-chat",
+        "apiUrl": "https://content.guardianapis.com/careers/2017/sep/17/how-to-write-a-killer-cover-letter-live-chat",
+        "isHosted": false
+      },
+      {
+        "id": "books/2017/sep/17/the-wardrobe-mistress-by-patrick-mcgrath-review-mesmerising-masterclass",
+        "type": "article",
+        "sectionId": "books",
+        "sectionName": "Books",
+        "webPublicationDate": "2017-09-17T09:00:36Z",
+        "webTitle": "The Wardrobe Mistress review â€“ out of the closet, into the paranormal",
+        "webUrl": "https://www.theguardian.com/books/2017/sep/17/the-wardrobe-mistress-by-patrick-mcgrath-review-mesmerising-masterclass",
+        "apiUrl": "https://content.guardianapis.com/books/2017/sep/17/the-wardrobe-mistress-by-patrick-mcgrath-review-mesmerising-masterclass",
+        "isHosted": false
+      },
+      {
+        "id": "culture/2017/sep/17/on-my-radar-pauline-black-selecter-blondie-soul-of-nation",
+        "type": "article",
+        "sectionId": "culture",
+        "sectionName": "Culture",
+        "webPublicationDate": "2017-09-17T09:00:36Z",
+        "webTitle": "On my radar: Pauline Blackâ€™s cultural highlights",
+        "webUrl": "https://www.theguardian.com/culture/2017/sep/17/on-my-radar-pauline-black-selecter-blondie-soul-of-nation",
+        "apiUrl": "https://content.guardianapis.com/culture/2017/sep/17/on-my-radar-pauline-black-selecter-blondie-soul-of-nation",
+        "isHosted": false
+      }
+    ]
+  }
+}

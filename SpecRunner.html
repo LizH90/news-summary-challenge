@@ -3,16 +3,21 @@
 <head>
 
   <title>SpecRunner</title>
-
-
+  <link rel="stylesheet" href="js/testLibrary/style.css">
 
 </head>
 
 <body>
-  <button id="refresh-button">Refresh Newsfeed</button>
+  <h1> SpecRunner </h1>
   <div id="test-result"></div>
 
-  <script src='src/newsFeed.js'></script>
-  <script src="test/newsFeedTest.js"></script>
+  <!-- test library files -->
+  <script src='js/testLibrary/testLibrary.js'></script>
+
+  <!-- source files -->
+  <script src='js/apiCaller.js'></script>
+
+  <!-- test files -->
+  <script src="test/apiCallerTest.js"></script>
 </body>
 </html>
